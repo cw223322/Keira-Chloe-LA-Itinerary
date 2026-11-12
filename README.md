@@ -3,9 +3,15 @@
 Plan the April 2027 trip in the browser. The app is a static website and saves
 your plan in the current browser by default.
 
-## Open the published website
+## Enable and open the website
 
-After GitHub Pages is enabled and the deployment workflow has completed, visit:
+The repository owner needs to enable Pages once:
+
+1. Open [repository Pages settings](https://github.com/cw223322/Keira-Chloe-LA-Itinerary/settings/pages).
+2. Under **Build and deployment**, set **Source** to **GitHub Actions**.
+3. Open the repository's **Actions** tab and rerun **Deploy static website to GitHub Pages**.
+
+After the deployment workflow completes, visit:
 
 <https://cw223322.github.io/Keira-Chloe-LA-Itinerary/>
 
